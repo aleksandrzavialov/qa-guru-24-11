@@ -1,0 +1,44 @@
+[
+   {
+      "name":"Breaking Bad",
+      "seasons":5,
+      "firstYear":2008,
+      "lastYear":2013,
+      "actors":[
+         {
+            "name":"Bryan",
+            "lastName":"Cranston",
+            "character":"Walter White",
+            "yearOfBirth":1956
+         },
+         {
+            "name":"Aaron",
+            "lastName":"Paul",
+            "character":"Jesse Pinkman",
+            "yearOfBirth":1979
+         }
+      ],
+      "rating":8.9
+   },
+   {
+      "name":"The Office",
+      "seasons":9,
+      "firstYear":2005,
+      "lastYear":2013,
+      "actors":[
+         {
+            "name":"Steve",
+            "lastName":"Carell",
+            "character":"Michael Scott",
+            "yearOfBirth":1962
+         },
+         {
+            "name":"Rainn",
+            "lastName":"Wilson",
+            "character":"Dwight Schrute",
+            "yearOfBirth":1966
+         }
+      ],
+      "rating":8.6
+   }
+]
